@@ -2,12 +2,12 @@
 #sidebar TOC
 
   * SyncProxy 0.5
-    * [QuickStart Quick Start Guide]
-    * [Upgrade05 Upgrading to 0.5]
-    * [SourceAndTesting Source/Testing]
-    * [Android]
-  * [ReleaseNotes Release Notes]
-  * [CommonIssues Common Issues]
-  * [Roadmap]
-  * [Downloads]
+    * [https://github.com/jcricket/gwt-syncproxy/wiki/Quick-Start Quick Start Guide]
+    * [https://github.com/jcricket/gwt-syncproxy/wiki/Upgrade-0.5 Upgrading to 0.5]
+    * [https://github.com/jcricket/gwt-syncproxy/wiki/Source-and-Testing Source/Testing]
+    * [https://github.com/jcricket/gwt-syncproxy/wiki/Android Android]
+  * [https://github.com/jcricket/gwt-syncproxy/wiki/Release-Notes Release Notes]
+  * [https://github.com/jcricket/gwt-syncproxy/wiki/Common-Issues Common Issues]
+  * [https://github.com/jcricket/gwt-syncproxy/wiki/Roadmap Roadmap]
+  * [https://github.com/jcricket/gwt-syncproxy/releases Downloads]
   * [PriorVersionExamples Legacy Examples]
