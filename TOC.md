@@ -1,0 +1,10 @@
+  * SyncProxy 0.5
+    * [Quick Start Guide](https://github.com/jcricket/gwt-syncproxy/wiki/Quick-Start)
+    * [Upgrading to 0.5](https://github.com/jcricket/gwt-syncproxy/wiki/Upgrade-0.5)
+    * [Source/Testing](https://github.com/jcricket/gwt-syncproxy/wiki/Source-and-Testing)
+    * [Android](https://github.com/jcricket/gwt-syncproxy/wiki/Android)
+  * [Release Notes](https://github.com/jcricket/gwt-syncproxy/wiki/Release-Notes)
+  * [Common Issues](https://github.com/jcricket/gwt-syncproxy/wiki/Common-Issues)
+  * [Roadmap](https://github.com/jcricket/gwt-syncproxy/wiki/Roadmap)
+  * [Downloads](https://github.com/jcricket/gwt-syncproxy/releases)
+  * [Legacy Examples](PriorVersionExamples.md)
